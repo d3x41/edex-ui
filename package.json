@@ -99,7 +99,7 @@
     }
   },
   "dependencies": {
-    "clean-css": "5.2.1",
+    "clean-css": "5.3.3",
     "electron": "^34.0.1",
     "electron-builder": "^25.1.8",
     "electron-rebuild": "^3.2.9",
