@@ -8,3 +8,11 @@
 7 verbose argv "list" "xterm"
 8 verbose logfile logs-max:10 dir:/home/user/.npm/_logs/2025-02-08T21_37_14_977Z-
 9 verbose logfile /home/user/.npm/_logs/2025-02-08T21_37_14_977Z-debug-0.log
+10 silly packumentCache heap:2116812800 maxSize:529203200 maxEntrySize:264601600
+11 silly logfile done cleaning log files
+12 verbose cwd /home/user
+13 verbose os Linux 6.1.102
+14 verbose node v20.18.0
+15 verbose npm  v10.8.2
+16 verbose exit 1
+17 verbose code 1
