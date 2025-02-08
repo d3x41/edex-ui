@@ -1,0 +1,14 @@
+
+{
+  "name": "edex-ui",
+  "dependencies": {
+    "xterm": "^5.0.0",
+    "xterm-addon-attach": "0.6.0",
+    "xterm-addon-fit": "0.5.0",
+    "xterm-addon-ligatures": "0.5.1",
+    "xterm-addon-webgl": "^0.16.0"
+  },
+  "peerDependencies": {
+    "xterm": "^5.0.0"
+  }
+}
