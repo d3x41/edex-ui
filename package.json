@@ -100,7 +100,7 @@
   },
   "dependencies": {
     "clean-css": "5.2.1",
-    "electron": "^34.0.1",
+    "electron": "^34.3.4",
     "electron-builder": "^25.1.8",
     "electron-rebuild": "^3.2.9",
     "mime-types": "^2.1.33",
